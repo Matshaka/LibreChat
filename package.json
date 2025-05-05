@@ -9,7 +9,7 @@
   ],
   "scripts": {
     "update": "node config/update.js",
-    "start": "node server.js",
+    "start": "next start"
     "add-balance": "node config/add-balance.js",
     "set-balance": "node config/set-balance.js",
     "list-balances": "node config/list-balances.js",
