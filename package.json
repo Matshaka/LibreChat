@@ -11,6 +11,7 @@
     "update": "node config/update.js",
     "add-balance": "node config/add-balance.js",
     "set-balance": "node config/set-balance.js",
+    "start": "ts-node api/index.ts",
     "list-balances": "node config/list-balances.js",
     "user-stats": "node config/user-stats.js",
     "rebuild:package-lock": "node config/packages",
