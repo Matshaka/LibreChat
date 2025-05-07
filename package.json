@@ -72,10 +72,14 @@
     "b:balance": "bun config/add-balance.js",
     "b:list-balances": "bun config/list-balances.js",
     "reset-terms": "node config/reset-terms.js"
+}
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/danny-avila/LibreChat.git"
+  }
+  "dependencies": {
+    "ts-node": "^10.9.1"
   },
   "author": "",
   "license": "ISC",
