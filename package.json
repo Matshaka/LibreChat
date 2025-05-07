@@ -72,7 +72,6 @@
     "b:balance": "bun config/add-balance.js",
     "b:list-balances": "bun config/list-balances.js",
     "reset-terms": "node config/reset-terms.js"
-}
   },
   "repository": {
     "type": "git",
